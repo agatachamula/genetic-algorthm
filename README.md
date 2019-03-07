@@ -1,4 +1,4 @@
-# Genetic algorithm using Python
+# Genetic algorithm with parameters experiments using Python
 
 This repository consists of implementation of genetic algorothm. 
 Influence of parameters of the algorithm is tested with regards to accuracy and time of execution.
