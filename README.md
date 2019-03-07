@@ -38,7 +38,29 @@ Results were prepared using graphs from graph.py template
 
 * change of dataset size:
 
- <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png?raw=true" height="400" width="300">
+ <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image5.png?raw=true" height="300" width="400">
+ 
+ * change of population size:
 
-![alt text](https://raw.githubusercontent.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png | width=400 | height=300) ![alt text](https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image5.png =400x300)
+ <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image9.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image10.png?raw=true" height="300" width="400">
+ 
+ * change of mutation probability:
+ 
+  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image14.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image15.png?raw=true" height="300" width="400">
+  
+ * change of size of contestants group in tournament selection:
+
+  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image19.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image20.png?raw=true" height="300" width="400">
+
+* improment over generations:
+
+  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image21.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image22.png?raw=true" height="300" width="400">
+  
+* change of degree of polynomial:
+
+  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image29.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image30.png?raw=true" height="300" width="400">
+  
+  
+
+
 
