@@ -40,27 +40,37 @@ Results were prepared using graphs from graph.py template
 
  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image5.png?raw=true" height="300" width="400">
  
+ Fewer samples tend to get result faster, but with less accuracy. When we have more points “anomalies” don’t affect the result so much that is why we get steadily increasing accuracy over generations.
+ 
  * change of population size:
 
  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image9.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image10.png?raw=true" height="300" width="400">
+ 
+ With bigger population size we get result faster – there is a bigger chance of bigger result being in first population. Quality also slightly increases with increasing of populations size for the same reason.
  
  * change of mutation probability:
  
   <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image14.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image15.png?raw=true" height="300" width="400">
   
+  My samples don’t show any pattern. It seems it is the best to choose moderate value of mutation probability.
+  
  * change of size of contestants group in tournament selection:
 
   <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image19.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image20.png?raw=true" height="300" width="400">
+  
+  When we have one contestant it means we randomly choose parents for next generation. We have best result very soon since result can’t improve when we choose random samples to crossover. With 30 contestants only two best samples have children which very soon leads to not enough variability in population to improve result. Best is to choose parents “semi-randomly” – parents with better results have better probability of being chosen.
 
-* improment over generations:
+* improvement over generations:
 
   <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image21.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image22.png?raw=true" height="300" width="400">
+  
+  Accuracy improves with generations. The dependence looks similar to logarithmic dependence. Accuracy improves rapidly in initial generations and slows down in later generations.
   
 * change of degree of polynomial:
 
   <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image29.png?raw=true" height="300" width="400">  <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image30.png?raw=true" height="300" width="400">
   
-  
+  Generally we tend to get results later with bigger degree and accuracy seems to be also improving. Degree of polynomial is specific  to specific set of points. In points generated in my experiment it seems the best suiting function is linear function.
 
 
 
