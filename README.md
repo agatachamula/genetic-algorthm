@@ -38,7 +38,7 @@ Results were prepared using graphs from graph.py template
 
 * change of dataset size:
 
- <img src="https://raw.githubusercontent.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png" height="400" width="300">
+ <img src="https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png?raw=true" height="400" width="300">
 
 ![alt text](https://raw.githubusercontent.com/agatachamula/genetic-algorthm/blob/master/Results/image4.png | width=400 | height=300) ![alt text](https://github.com/agatachamula/genetic-algorthm/blob/master/Results/image5.png =400x300)
 
